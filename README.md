@@ -47,8 +47,7 @@ Webhook::create([
     - [Using webhooks with multi tenancy](#tenant)
 - [License](#license)
 
-<a name="installation" />
-## Installation
+## [Installation](#installation)
 
 In order to add CaptainHook to your project, just add
 
